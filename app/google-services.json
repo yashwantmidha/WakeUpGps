@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "141666411914",
+    "firebase_url": "https://wakeupgps-39e28.firebaseio.com",
+    "project_id": "wakeupgps-39e28",
+    "storage_bucket": "wakeupgps-39e28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141666411914:android:25b4326cca318ddfd39473",
+        "android_client_info": {
+          "package_name": "com.yashwant.wakeupgps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141666411914-0g94gtlicf3k5oek198meq79vfdhdkjm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yashwant.wakeupgps",
+            "certificate_hash": "342bc337235c5650aa954880b4c529fe3e27a558"
+          }
+        },
+        {
+          "client_id": "141666411914-opgjiq461r55clcc3tprs56pt5f9lrou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLM-k6qZ-WuhTaGIQmtt8oJEQcEIa5nGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141666411914-opgjiq461r55clcc3tprs56pt5f9lrou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
